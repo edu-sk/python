@@ -7,7 +7,7 @@
 - 어디로든 갈 수 있을 줄 알았다.
 
 ```
-
+![doraemong](/relativePath.assets/doraemong.jpg)
 
 
 ```
